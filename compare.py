@@ -4,7 +4,7 @@
 # @description:受制于技术问题，这里采用最简单的滑动窗口方法模拟听歌识曲。6月1日完工，真是一件美事啊！
 # 2023年6月19日，上手将代码上传到github，顺便改正一下自己版本管理混乱的陋习。
 # coding=utf-8
-
+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
 import os
 import sqlite3
 from loadmusic import recode
